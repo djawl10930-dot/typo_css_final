@@ -36,7 +36,7 @@ const playData = {
 
      'item2': {
         title: '공기놀이.com',
-        content: `<img src="images/공기놀이이미지.webp" class="popup-top-img" alt="공기놀이이미지">
+        content: `<img src="images/gonggi.webp" class="popup-top-img" alt="공기놀이이미지">
             <div class="popup-section">
                 <h3 class="section-tag">개요</h3>
                 <p>스마트폰도, 전원도, 와이파이도 필요 없다. 돌멩이 다섯 개면 충분하다. 손끝과 눈과 숨이 하나로 묶이는 순간, 머릿속을 채우던 알림과 걱정들이 잠시 사라진다. 공기놀이는 몸으로 하는 집중이다.</p>
