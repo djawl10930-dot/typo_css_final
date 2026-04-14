@@ -2,7 +2,7 @@
 const playData = {
     'item1': {
         title: '수건돌리기.com',
-        content: `<img src="images/수건돌리기이미지.jpg" class="popup-top-img" alt="수건돌리기이미지">
+        content: `<img src="images/towel2.jpg" class="popup-top-img" alt="수건돌리기이미지">
             <div class="popup-section">
                 <h3 class="section-tag">개요</h3>
                 <p>여러 명이 둥글게 앉아 술래가 몰래 수건을 떨어뜨리고 도망치는 방식의 추격 게임이다. 누군가 몰래 내려놓은 수건 한 장에 온 신경을 곤두세워 보자. 술래가 한 바퀴를 돌아와 나의 어깨를 가볍게 치기 전, 그 은밀한 신호를 알아채고 바닥을 박차고 일어나는 순간, 우리는 다시금 순수한 설렘의 중심으로 뛰어들게 된다.</p>
@@ -73,7 +73,7 @@ const playData = {
     
     'item3': {
         title: '딱지치기.com',
-        content: `<img src="images/딱지치기이미지.jpg" class="popup-top-img" alt="딱지치기이미지">
+        content: `<img src="images/ddackji2.jpg" class="popup-top-img" alt="딱지치기이미지">
             <div class="popup-section">
                 <h3 class="section-tag">개요</h3>
                 <p>종이를 접어 만든 딱지를 이용해 상대의 딱지를 뒤집는 전통 놀이. 단순해 보이지만 기술과 힘 조절이 핵심이다. 종이 한 장에 담긴 어른의 진심.</p>
@@ -108,7 +108,7 @@ const playData = {
 
     'item4': {
         title: '경찰과도둑.com',
-        content: `<img src="images/경찰과도둑이미지.avif" class="popup-top-img" alt="경찰과도둑이미지">
+        content: `<img src="images/police2.avif" class="popup-top-img" alt="경찰과도둑이미지">
             <div class="popup-section">
                 <h3 class="section-tag">개요</h3>
                 <p>어른이라는 무게를 내려놓고 해 질 녘 운동장을 누비던 아이가 되어 보자. 경찰은 도둑을 잡아 '감옥'에 가두고, 도둑은 잡힌 동료를 터치해 다시 자유의 품으로 돌려보낸다. 이 게임의 목적은 단순하다. 화면 속 가상의 성취가 아닌, 흙먼지 날리는 바닥을 박차고 뛰며 느끼는 ‘살아있음’ 그 자체를 경험하는 것.</p>
@@ -141,7 +141,7 @@ const playData = {
     
     'item5': {
         title: '무궁화꽃이피었습니다.com',
-        content: `<img src="images/무궁화이미지.jpg" class="popup-top-img" alt="무궁화이미지">
+        content: `<img src="images/flower2.jpg" class="popup-top-img" alt="무궁화이미지">
             <div class="popup-section">
                 <h3 class="section-tag">개요</h3>
                 <p>단순한 규칙 속에서 극도의 긴장감과 몰입을 만들어내는 전통 놀이. 자유롭게 달리다 어떤 순간에는 시간이 멈춘 듯 완전히 정지해야 한다. 순간적인 판단력과 몸의 제어, 그리고 심리전까지 포함된 복합게임.</p>
